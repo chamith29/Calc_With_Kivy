@@ -1,0 +1,3 @@
+title=calc
+author=sai
+orientation=portrait
